@@ -1,0 +1,8 @@
+{
+  "name": "Interactive Gestures 3D",
+  "description": "Control a 3D particle system with your hand via webcam. Switch between different 3D shapes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
